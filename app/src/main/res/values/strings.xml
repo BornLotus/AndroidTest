@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="title_activity_spannable_string">SpannableStringActivity</string>
+    <string name="today_label">Today</string>
+</resources>
